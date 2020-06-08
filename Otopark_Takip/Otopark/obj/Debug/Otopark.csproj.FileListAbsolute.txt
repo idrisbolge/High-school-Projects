@@ -1,0 +1,38 @@
+C:\Users\İdris\Documents\Visual Studio 2012\Projects\Otopark\Otopark\bin\Debug\Otopark.exe.config
+C:\Users\İdris\Documents\Visual Studio 2012\Projects\Otopark\Otopark\bin\Debug\Otopark.exe
+C:\Users\İdris\Documents\Visual Studio 2012\Projects\Otopark\Otopark\bin\Debug\Otopark.pdb
+C:\Users\İdris\Documents\Visual Studio 2012\Projects\Otopark\Otopark\obj\Debug\Otopark.csprojResolveAssemblyReference.cache
+C:\Users\İdris\Documents\Visual Studio 2012\Projects\Otopark\Otopark\obj\Debug\Otopark.Form1.resources
+C:\Users\İdris\Documents\Visual Studio 2012\Projects\Otopark\Otopark\obj\Debug\Otopark.Properties.Resources.resources
+C:\Users\İdris\Documents\Visual Studio 2012\Projects\Otopark\Otopark\obj\Debug\Otopark.csproj.GenerateResource.Cache
+C:\Users\İdris\Documents\Visual Studio 2012\Projects\Otopark\Otopark\obj\Debug\Otopark.exe
+C:\Users\İdris\Documents\Visual Studio 2012\Projects\Otopark\Otopark\obj\Debug\Otopark.pdb
+C:\Users\İdris\Documents\Visual Studio 2012\Projects\Otopark\Otopark\obj\Debug\Otopark.Form2.resources
+C:\Users\İdris\Documents\Visual Studio 2012\Projects\Otopark\Otopark\obj\Debug\Otopark.personel_ekle.resources
+C:\Users\İdris\Documents\Visual Studio 2012\Projects\Otopark\Otopark\obj\Debug\Otopark.yonetici.resources
+C:\Users\İdris\Desktop\Otopark\Otopark\bin\Debug\Otopark.exe.config
+C:\Users\İdris\Desktop\Otopark\Otopark\obj\Debug\Otopark.exe
+C:\Users\İdris\Desktop\Otopark\Otopark\bin\Debug\Otopark.exe
+C:\Users\İdris\Desktop\Otopark\Otopark\bin\Debug\Otopark.pdb
+C:\Users\İdris\Desktop\Otopark\Otopark\obj\Debug\Otopark.csprojResolveAssemblyReference.cache
+C:\Users\İdris\Desktop\Otopark\Otopark\obj\Debug\Otopark.Form1.resources
+C:\Users\İdris\Desktop\Otopark\Otopark\obj\Debug\Otopark.Form2.resources
+C:\Users\İdris\Desktop\Otopark\Otopark\obj\Debug\Otopark.personel_ekle.resources
+C:\Users\İdris\Desktop\Otopark\Otopark\obj\Debug\Otopark.Properties.Resources.resources
+C:\Users\İdris\Desktop\Otopark\Otopark\obj\Debug\Otopark.yonetici.resources
+C:\Users\İdris\Desktop\Otopark\Otopark\obj\Debug\Otopark.csproj.GenerateResource.Cache
+C:\Users\İdris\Desktop\Otopark\Otopark\obj\Debug\Otopark.pdb
+C:\Users\İdris\Desktop\Otopark\Otopark\obj\Debug\Otopark.Giris_Ekrani.resources
+C:\Users\İdris\Desktop\Otopark\Otopark\obj\Debug\Otopark.mevcut.resources
+C:\Users\İdris\Desktop\Otopark\Otopark\obj\Debug\Otopark.araclar.resources
+C:\Users\İdris\Desktop\Otopark\Otopark\obj\Debug\Otopark.musbilgi.resources
+C:\Users\İdris\Desktop\Otopark\Otopark\obj\Debug\Otopark.gelir.resources
+C:\Users\İdris\Desktop\C#\Otopark\Otopark\bin\Debug\Otopark.exe.config
+C:\Users\İdris\Desktop\C#\Otopark\Otopark\obj\Debug\Otopark.exe
+C:\Users\İdris\Desktop\C#\Otopark\Otopark\obj\Debug\Otopark.pdb
+C:\Users\İdris\Desktop\Tüm Bilgilerim\usb bellek\Otopark\Otopark\bin\Debug\Otopark.exe.config
+C:\Users\İdris\Desktop\Tüm Bilgilerim\usb bellek\Otopark\Otopark\obj\Debug\Otopark.exe
+C:\Users\İdris\Desktop\Tüm Bilgilerim\usb bellek\Otopark\Otopark\obj\Debug\Otopark.pdb
+C:\Users\idris\Desktop\Tüm belgeler\Arşivim\Eski PC\C# Projeleri\Otopark_Takip\Otopark\bin\Debug\Otopark.exe.config
+C:\Users\idris\Desktop\Tüm belgeler\Arşivim\Eski PC\C# Projeleri\Otopark_Takip\Otopark\obj\Debug\Otopark.exe
+C:\Users\idris\Desktop\Tüm belgeler\Arşivim\Eski PC\C# Projeleri\Otopark_Takip\Otopark\obj\Debug\Otopark.pdb

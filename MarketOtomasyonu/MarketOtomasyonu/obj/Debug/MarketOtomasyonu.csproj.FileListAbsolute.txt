@@ -1,0 +1,52 @@
+C:\Users\Idris\AppData\Local\Temporary Projects\MarketOtomasyonu\bin\Debug\MarketOtomasyonu.exe.config
+C:\Users\Idris\AppData\Local\Temporary Projects\MarketOtomasyonu\bin\Debug\MarketOtomasyonu.exe
+C:\Users\Idris\AppData\Local\Temporary Projects\MarketOtomasyonu\bin\Debug\MarketOtomasyonu.pdb
+C:\Users\Idris\AppData\Local\Temporary Projects\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Idris\AppData\Local\Temporary Projects\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.Form1.resources
+C:\Users\Idris\AppData\Local\Temporary Projects\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.musteri.resources
+C:\Users\Idris\AppData\Local\Temporary Projects\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.musteriekle.resources
+C:\Users\Idris\AppData\Local\Temporary Projects\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.Properties.Resources.resources
+C:\Users\Idris\AppData\Local\Temporary Projects\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\Idris\AppData\Local\Temporary Projects\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.exe
+C:\Users\Idris\AppData\Local\Temporary Projects\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.pdb
+C:\Users\Idris\AppData\Local\Temporary Projects\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.urun.resources
+C:\Users\Idris\AppData\Local\Temporary Projects\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.urunekle.resources
+C:\Users\Idris\Documents\Visual Studio 2012\Projects\MarketOtomasyonu\MarketOtomasyonu\bin\Debug\MarketOtomasyonu.exe.config
+C:\Users\Idris\Documents\Visual Studio 2012\Projects\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.exe
+C:\Users\Idris\Documents\Visual Studio 2012\Projects\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.pdb
+C:\Users\Idris\Documents\Visual Studio 2012\Projects\MarketOtomasyonu\MarketOtomasyonu\bin\Debug\MarketOtomasyonu.exe
+C:\Users\Idris\Documents\Visual Studio 2012\Projects\MarketOtomasyonu\MarketOtomasyonu\bin\Debug\MarketOtomasyonu.pdb
+C:\Users\Idris\Documents\Visual Studio 2012\Projects\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Idris\Documents\Visual Studio 2012\Projects\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.Form1.resources
+C:\Users\Idris\Documents\Visual Studio 2012\Projects\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.musteri.resources
+C:\Users\Idris\Documents\Visual Studio 2012\Projects\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.musteriekle.resources
+C:\Users\Idris\Documents\Visual Studio 2012\Projects\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.Properties.Resources.resources
+C:\Users\Idris\Documents\Visual Studio 2012\Projects\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.urun.resources
+C:\Users\Idris\Documents\Visual Studio 2012\Projects\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.urunekle.resources
+C:\Users\Idris\Documents\Visual Studio 2012\Projects\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\Idris\Documents\Visual Studio 2012\Projects\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.kasiyer.resources
+C:\Users\Idris\Documents\Visual Studio 2012\Projects\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.ksekle.resources
+C:\Users\Idris\Documents\Visual Studio 2012\Projects\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.stok.resources
+C:\Users\Idris\Documents\Visual Studio 2012\Projects\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.musteriseç.resources
+C:\Users\Idris\Documents\Visual Studio 2012\Projects\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.satıs.resources
+C:\Users\Idris\Desktop\MarketOtomasyonu\MarketOtomasyonu\bin\Debug\MarketOtomasyonu.exe.config
+C:\Users\Idris\Desktop\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.exe
+C:\Users\Idris\Desktop\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.pdb
+C:\Users\İdris\Desktop\MarketOtomasyonu\MarketOtomasyonu\bin\Debug\MarketOtomasyonu.exe.config
+C:\Users\İdris\Desktop\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.exe
+C:\Users\İdris\Desktop\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.pdb
+C:\Users\İdris\Desktop\MarketOtomasyonu\MarketOtomasyonu\bin\Debug\MarketOtomasyonu.exe
+C:\Users\İdris\Desktop\MarketOtomasyonu\MarketOtomasyonu\bin\Debug\MarketOtomasyonu.pdb
+C:\Users\İdris\Desktop\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\İdris\Desktop\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.Form1.resources
+C:\Users\İdris\Desktop\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.kasiyer.resources
+C:\Users\İdris\Desktop\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.ksekle.resources
+C:\Users\İdris\Desktop\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.musteri.resources
+C:\Users\İdris\Desktop\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.musteriekle.resources
+C:\Users\İdris\Desktop\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.musteriseç.resources
+C:\Users\İdris\Desktop\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.Properties.Resources.resources
+C:\Users\İdris\Desktop\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.satıs.resources
+C:\Users\İdris\Desktop\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.stok.resources
+C:\Users\İdris\Desktop\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.urun.resources
+C:\Users\İdris\Desktop\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.urunekle.resources
+C:\Users\İdris\Desktop\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.csproj.GenerateResource.Cache

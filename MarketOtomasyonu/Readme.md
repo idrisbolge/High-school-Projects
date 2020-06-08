@@ -1,6 +1,6 @@
 The market project I did in high school history. 
 Properties:
-1-It works integrated with barcode reader.
+1-It works integrated with barcode reader.\n
 2- Customer transactions
 3- Product transactions
 4- Cashier transactions
